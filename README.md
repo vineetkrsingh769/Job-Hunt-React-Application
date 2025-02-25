@@ -64,7 +64,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/RounitSingh/Jobringer.git
+git clone https://github.com/vineetkrsingh769/JobHunt_.git
 
 # Navigate into the project directory
 cd Jobringer
